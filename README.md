@@ -1,2 +1,9 @@
 # Projeto-EP1
-Projeto DSoft Mayra, Gabriela e Miras
+
+##Dicas do Git
+- git clone <URL do GITHUB>
+- git add *
+- git commit -m "mensagem"
+- git push
+- git pull
+- git status
